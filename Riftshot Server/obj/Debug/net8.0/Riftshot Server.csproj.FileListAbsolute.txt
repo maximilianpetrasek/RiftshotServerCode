@@ -1,0 +1,14 @@
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\bin\Debug\net8.0\Riftshot Server.exe
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\bin\Debug\net8.0\Riftshot Server.deps.json
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\bin\Debug\net8.0\Riftshot Server.runtimeconfig.json
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\bin\Debug\net8.0\Riftshot Server.dll
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\bin\Debug\net8.0\Riftshot Server.pdb
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.AssemblyInfoInputs.cache
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.AssemblyInfo.cs
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.csproj.CoreCompileInputs.cache
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.dll
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\refint\Riftshot Server.dll
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.pdb
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\Riftshot Server.genruntimeconfig.cache
+C:\Users\maxwo\source\repos\RiftshotServer\Riftshot Server\obj\Debug\net8.0\ref\Riftshot Server.dll
