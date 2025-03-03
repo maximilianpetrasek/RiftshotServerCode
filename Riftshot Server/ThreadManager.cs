@@ -16,7 +16,7 @@ namespace Riftshot_Server
         {
             if (_action == null)
             {
-                Console.WriteLine("No action to execute on main thread!");
+                //Console.WriteLine("No action to execute on main thread!");
                 return;
             }
 

@@ -65,7 +65,7 @@ namespace Riftshot_Server
                 }
                 catch (Exception _ex)
                 {
-                    Console.WriteLine($"Error sending data to player {id} via TCP: {_ex}");
+                    //Console.WriteLine($"Error sending data to player {id} via TCP: {_ex}");
                 }
             }
 
@@ -88,7 +88,7 @@ namespace Riftshot_Server
                 }
                 catch (Exception _ex)
                 {
-                    Console.WriteLine($"Error receiving TCP data: {_ex}");
+                    //Console.WriteLine($"Error receiving TCP data: {_ex}");
                     Server.clients[id].Disconnect();
                 }
             }
@@ -191,9 +191,9 @@ namespace Riftshot_Server
             }
         }
 
-        public void SendIntoGame(string _playerName)
+        public void SendIntoGame(string _playerName, string _currentScene, int _outfit, int _paint)
         {
-            player = new Player(id, _playerName, new Vector3(0, 0, 0));
+            player = new Player(id, _playerName, new Vector3(0, 0, 0), _currentScene, _outfit, _paint);
 
             foreach (Client _client in Server.clients.Values)
             {
@@ -217,7 +217,7 @@ namespace Riftshot_Server
 
         private void Disconnect()
         {
-            Console.WriteLine($"{tcp.socket.Client.RemoteEndPoint} has disconnected.");
+            //Console.WriteLine($"{tcp.socket.Client.RemoteEndPoint} has disconnected.");
             int id = player.id;
             player = null;
 

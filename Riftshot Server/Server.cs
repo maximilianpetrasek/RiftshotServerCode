@@ -33,6 +33,8 @@ namespace Riftshot_Server
             udpListener = new UdpClient(Port);
             udpListener.BeginReceive(UDPReceiveCallback, null);
 
+            Console.CursorLeft = 0;
+            Console.CursorTop = 0;
             Console.WriteLine($"Server started on port {Port}.");
         }
 
@@ -40,7 +42,7 @@ namespace Riftshot_Server
         {
             TcpClient _client = tcpListener.EndAcceptTcpClient(_result);
             tcpListener.BeginAcceptTcpClient(TCPConnectCallback, null);
-            Console.WriteLine($"Incoming connection from {_client.Client.RemoteEndPoint}...");
+            //Console.WriteLine($"Incoming connection from {_client.Client.RemoteEndPoint}...");
 
             for (int i = 1; i <= MaxPlayers; i++)
             {
@@ -51,7 +53,7 @@ namespace Riftshot_Server
                 }
             }
 
-            Console.WriteLine($"{_client.Client.RemoteEndPoint} failed to connect: Server full!");
+            //Console.WriteLine($"{_client.Client.RemoteEndPoint} failed to connect: Server full!");
         }
 
         private static void UDPReceiveCallback(IAsyncResult _result)
@@ -90,7 +92,7 @@ namespace Riftshot_Server
             }
             catch (Exception _ex)
             {
-                Console.WriteLine($"Error receiving UDP data: {_ex}");
+                //Console.WriteLine($"Error receiving UDP data: {_ex}");
             }
         }
 
@@ -105,7 +107,7 @@ namespace Riftshot_Server
             }
             catch (Exception _ex)
             {
-                Console.WriteLine($"Error sending data to {_clientEndPoint} via UDP: {_ex}");
+                //Console.WriteLine($"Error sending data to {_clientEndPoint} via UDP: {_ex}");
             }
         }
 
@@ -122,8 +124,10 @@ namespace Riftshot_Server
                 { (int)ClientPackets.playerMovement, ServerHandle.PlayerMovement },
                 { (int)ClientPackets.playerAnimatio, ServerHandle.PlayerAnimation },
                 { (int)ClientPackets.customizerInt, ServerHandle.CustomIntPingPong },
+                { (int)ClientPackets.disconPacket, ServerHandle.CustomIntPingPong },
+                { (int)ClientPackets.sceneSwitch, ServerHandle.ClientSceneUpdate },
             };
-            Console.WriteLine("Initialized packets.");
+            //Console.WriteLine("Initialized packets.");
         }
     }
 }

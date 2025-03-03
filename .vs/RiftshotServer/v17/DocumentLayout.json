@@ -11,28 +11,24 @@
       "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\serverhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\serverhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\packet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\serverhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\serverhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\gamelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,6 +37,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|c:\\users\\maxwo\\source\\repos\\riftshotserver\\riftshot server\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D850E3C-917C-4B7D-B1C6-F3C3AA15F3C6}|Riftshot Server\\Riftshot Server.csproj|solutionrelative:riftshot server\\threadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,67 +50,81 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Player.cs",
-              "RelativeDocumentMoniker": "Riftshot Server\\Player.cs",
-              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Player.cs",
-              "RelativeToolTip": "Riftshot Server\\Player.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T18:29:29.792Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "GameLogic.cs",
-              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\GameLogic.cs",
-              "RelativeDocumentMoniker": "Riftshot Server\\GameLogic.cs",
-              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\GameLogic.cs",
-              "RelativeToolTip": "Riftshot Server\\GameLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:53:25.5Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Constants.cs",
-              "RelativeDocumentMoniker": "Riftshot Server\\Constants.cs",
-              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Constants.cs",
-              "RelativeToolTip": "Riftshot Server\\Constants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:52:49.445Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "ServerHandle.cs",
               "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\ServerHandle.cs",
               "RelativeDocumentMoniker": "Riftshot Server\\ServerHandle.cs",
               "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\ServerHandle.cs",
               "RelativeToolTip": "Riftshot Server\\ServerHandle.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDEAAABGAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T01:44:54.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Packet.cs",
+              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Packet.cs",
+              "RelativeDocumentMoniker": "Riftshot Server\\Packet.cs",
+              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Packet.cs",
+              "RelativeToolTip": "Riftshot Server\\Packet.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T05:20:07.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Player.cs",
+              "RelativeDocumentMoniker": "Riftshot Server\\Player.cs",
+              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Player.cs",
+              "RelativeToolTip": "Riftshot Server\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:29:29.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameLogic.cs",
+              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\GameLogic.cs",
+              "RelativeDocumentMoniker": "Riftshot Server\\GameLogic.cs",
+              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\GameLogic.cs",
+              "RelativeToolTip": "Riftshot Server\\GameLogic.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwBgAAAD+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:53:25.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Constants.cs",
+              "RelativeDocumentMoniker": "Riftshot Server\\Constants.cs",
+              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Constants.cs",
+              "RelativeToolTip": "Riftshot Server\\Constants.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T01:52:49.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ThreadManager.cs",
               "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\ThreadManager.cs",
               "RelativeDocumentMoniker": "Riftshot Server\\ThreadManager.cs",
               "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\ThreadManager.cs",
               "RelativeToolTip": "Riftshot Server\\ThreadManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T01:42:55.984Z"
             },
@@ -122,22 +136,9 @@
               "RelativeDocumentMoniker": "Riftshot Server\\ServerSend.cs",
               "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\ServerSend.cs",
               "RelativeToolTip": "Riftshot Server\\ServerSend.cs",
-              "ViewState": "AgIAAHIAAAAAAAAAAAAmwIkAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwFUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T01:12:47.488Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Packet.cs",
-              "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Packet.cs",
-              "RelativeDocumentMoniker": "Riftshot Server\\Packet.cs",
-              "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Packet.cs",
-              "RelativeToolTip": "Riftshot Server\\Packet.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxoAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-27T01:10:52.06Z",
               "EditorCaption": ""
             },
             {
@@ -148,33 +149,33 @@
               "RelativeDocumentMoniker": "Riftshot Server\\Client.cs",
               "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Client.cs",
               "RelativeToolTip": "Riftshot Server\\Client.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAAAOEAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAL0AAAAAAAAAAAAIwMMAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T00:07:48.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Server.cs",
               "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Server.cs",
               "RelativeDocumentMoniker": "Riftshot Server\\Server.cs",
               "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Server.cs",
               "RelativeToolTip": "Riftshot Server\\Server.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAAAH8AAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:59:35.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Program.cs",
               "RelativeDocumentMoniker": "Riftshot Server\\Program.cs",
               "ToolTip": "C:\\Users\\maxwo\\source\\repos\\RiftshotServer\\Riftshot Server\\Program.cs",
               "RelativeToolTip": "Riftshot Server\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAswCQAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAYwBwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-26T23:55:05.298Z"
             }

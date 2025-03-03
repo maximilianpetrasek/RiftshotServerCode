@@ -12,13 +12,15 @@ namespace Riftshot_Server
         {
             int _clientIdCheck = _packet.ReadInt();
             string _username = _packet.ReadString();
-
-            Console.WriteLine($"{Server.clients[_fromClient].tcp.socket.Client.RemoteEndPoint} connected successfully and is now player {_fromClient}.");
+            string _scene = _packet.ReadString();
+            int _outfit = _packet.ReadInt();
+            int _paint = _packet.ReadInt();
+            //Console.WriteLine($"{Server.clients[_fromClient].tcp.socket.Client.RemoteEndPoint} connected successfully and is now player {_fromClient}.");
             if (_fromClient != _clientIdCheck)
             {
-                Console.WriteLine($"Player \"{_username}\" (ID: {_fromClient}) has assumed the wrong client ID ({_clientIdCheck})!");
+                //Console.WriteLine($"Player \"{_username}\" (ID: {_fromClient}) has assumed the wrong client ID ({_clientIdCheck})!");
             }
-            Server.clients[_fromClient].SendIntoGame(_username);
+            Server.clients[_fromClient].SendIntoGame(_username, _scene, _outfit, _paint);
         }
 
         public static void PlayerMovement(int _fromClient, Packet _packet)
@@ -49,6 +51,12 @@ namespace Riftshot_Server
             {
                 Server.clients[_fromClient].player.SetOutfit(WEREGONNA);
             }
+        }
+        public static void ClientSceneUpdate(int _fromClient, Packet _packet)
+        {
+            string NewScene = _packet.ReadString();
+            Server.clients[_fromClient].player.SetScene(NewScene);
+            //Server.clients[_fromClient].SendIntoGame(Server.clients[_fromClient].player.username, NewScene);
         }
     }
 }

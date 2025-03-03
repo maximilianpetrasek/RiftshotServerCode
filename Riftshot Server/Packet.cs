@@ -14,7 +14,7 @@ namespace Riftshot_Server
         playerRotation,
         playerAnimation,
         customInt,
-        dcPacket
+        dcPacket,
     }
 
     /// <summary>Sent from client to server.</summary>
@@ -24,7 +24,8 @@ namespace Riftshot_Server
         playerMovement,
         playerAnimatio,
         customizerInt,
-        disconPacket
+        disconPacket,
+        sceneSwitch
     }
 
     public class Packet : IDisposable

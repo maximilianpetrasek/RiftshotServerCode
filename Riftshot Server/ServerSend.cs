@@ -81,7 +81,9 @@ namespace Riftshot_Server
                 _packet.Write(_player.username);
                 _packet.Write(_player.position);
                 _packet.Write(_player.rotation);
-
+                _packet.Write(_player.scene);
+                _packet.Write(_player.Outfit);
+                _packet.Write(_player.Paintjob);
                 SendTCPData(_toClient, _packet);
             }
         }
@@ -138,6 +140,11 @@ namespace Riftshot_Server
                 _packet.Write(_PlayerID);
                 SendUDPDataToAll(_packet);
             }
+        }
+
+        public static void SendScene(string _sceneID)
+        {
+
         }
 
             #endregion

@@ -21,7 +21,7 @@ namespace Riftshot_Server
 
         private static void MainThread()
         {
-            Console.WriteLine($"Main thread started. Running at {Constants.TICKS_PER_SEC} ticks per second.");
+            //Console.WriteLine($"Main thread started. Running at {Constants.TICKS_PER_SEC} ticks per second.");
             DateTime _nextLoop = DateTime.Now;
 
             while (isRunning)
